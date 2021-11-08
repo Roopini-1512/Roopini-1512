@@ -1,11 +1,13 @@
 # Hey there! I'm Roopini <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
 
 
-<h3 align="center">Data-Scientist from India.</h3>
+<h3 align="center">Data-Scientist from India</h3>
 
 - 🌱 I’m currently learning **Everything about Data Science**
 
 - 📫 How to reach me **roopamba91@gmail.com**
+
+- 😄 Pronouns: **She/Her**
 
 
 ## &#x1f4c8; GitHub Stats
