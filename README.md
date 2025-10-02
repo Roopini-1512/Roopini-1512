@@ -3,9 +3,25 @@
 
 <h3 align="center">Data-Scientist from India</h3>
 
+Hi, I’m Roopa Mohan, a Data Scientist with a Postgraduate degree in Data Science and a Google Cloud certification. My academic foundation in statistics, machine learning, and advanced analytics laid the groundwork for my career, where I combine technical expertise with a strong business mindset.
+
+Over the past several years, I’ve gained diverse industry experience across semiconductors (Lam Research), telecommunications (Verizon), retail (Nike), and quick-service restaurants (Wendy’s). At these organizations, I have worked on projects spanning predictive modeling, machine learning deployment, data visualization, and advanced reporting.
+
+I specialize in:
+
+Machine Learning & Predictive Analytics – building and optimizing models for forecasting, churn prediction, and workforce insights.
+
+Cloud & ML Deployment – hands-on with Google Cloud Vertex AI, Snowflake, Kubernetes, Docker, and MLflow to scale solutions from experimentation to production.
+
+Business Intelligence – designing impactful Power BI dashboards and analytics solutions that translate complex data into clear, actionable stories.
+
+Cross-functional Collaboration – bridging technical teams and business stakeholders to deliver measurable impact such as improved reporting efficiency, sales forecasting accuracy, and market benchmarking.
+
+Beyond my professional work, I enjoy video editing and creative storytelling, which helps me bring clarity and narrative flow into the way I present data insights. I’m passionate about using data to solve real-world problems and empower organizations to make smarter, faster, and more confident decisions.
+
 - 🌱 I’m currently learning **Everything about Data Science**
 
-- 📫 How to reach me **roopamba91@gmail.com**
+- 📫 How to reach me **roopinimohan15@gmail.com**
 
 - 😄 Pronouns: **She/Her**
 
