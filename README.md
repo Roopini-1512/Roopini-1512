@@ -1,7 +1,7 @@
 # Hey there! I'm Roopini <img src="https://raw.githubusercontent.com/GouthamKumar-R/GouthamKumar-R/master/wave.gif" width="30px">
 
 
-<h3 align="center">Data-Scientist from India</h3>
+<h3 align="center">Data-Enthusiast</h3>
 
 I am a Data Scientist with a Postgraduate degree in Data Science and a Google Cloud certification. My academic foundation in statistics, machine learning, and advanced analytics laid the groundwork for my career, where I combine technical expertise with a strong business mindset.
 
