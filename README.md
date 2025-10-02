@@ -19,11 +19,9 @@ Cross-functional Collaboration – bridging technical teams and business stakeho
 
 Beyond my professional work, I enjoy video editing and creative storytelling, which helps me bring clarity and narrative flow into the way I present data insights. I’m passionate about using data to solve real-world problems and empower organizations to make smarter, faster, and more confident decisions.
 
-- 🌱 I’m currently learning **Everything about Data Science**
 
-- 📫 How to reach me **roopinimohan15@gmail.com**
-
-- 😄 Pronouns: **She/Her**
+📫 How to reach me **roopinimohan15@gmail.com**
+😄 Pronouns: **She/Her**
 
 
 ## &#x1f4c8; GitHub Stats
