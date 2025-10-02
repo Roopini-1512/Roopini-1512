@@ -3,7 +3,7 @@
 
 <h3 align="center">Data-Scientist from India</h3>
 
-Hi, I’m Roopa Mohan, a Data Scientist with a Postgraduate degree in Data Science and a Google Cloud certification. My academic foundation in statistics, machine learning, and advanced analytics laid the groundwork for my career, where I combine technical expertise with a strong business mindset.
+I am a Data Scientist with a Postgraduate degree in Data Science and a Google Cloud certification. My academic foundation in statistics, machine learning, and advanced analytics laid the groundwork for my career, where I combine technical expertise with a strong business mindset.
 
 Over the past several years, I’ve gained diverse industry experience across semiconductors (Lam Research), telecommunications (Verizon), retail (Nike), and quick-service restaurants (Wendy’s). At these organizations, I have worked on projects spanning predictive modeling, machine learning deployment, data visualization, and advanced reporting.
 
